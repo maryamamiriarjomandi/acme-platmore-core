@@ -1,3 +1,5 @@
 feature/CU-1234-fix-auth-api	
 [CU-1234] Fix: Updated authentication error handling
 PR #12 - Fix 500 Error in User Auth
+git commit -m "CU-868c4ju13 - [CU-101] Fix Missing Products in Inventory API"
+git commit -m "CU-868c4ju13 - [CU-101] Fix Missing Products in Inventory API"
